@@ -42,6 +42,6 @@ Pandas | NumPy | scikit-learn | Feature Engineering | Model Optimization
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sujal-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sujal-singh-40657728b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sujalsinghkws@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
