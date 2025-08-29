@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Bhandari</h1>
+<h1 align="center">Hi 👋, I'm Sujal singh</h1>
 <h3 align="center">BCA Student | Aspiring SDE | MERN Stack Developer | Machine Learning Enthusiast</h3>
 
 <!-- Typing SVG Animation -->
