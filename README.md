@@ -2,7 +2,7 @@
 <h3 align="center">BCA Student | Data Science & Machine Learning Enthusiast | AI Research & Innovation Focus</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F5D4&center=true&vCenter=true&width=700&lines=📊+Data+Scientist+%26+ML+Enthusiast;🤖+Machine+Learning+%26+AI+Explorer;🌐+Full-Stack+Web+Developer+(Learning);🚀+Turning+Data+into+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F5D4&center=true&vCenter=true&width=700&lines=📊+Data+Scientist+%26+ML+Enthusiast;🤖+Machine+Learning+%26+AI+Explorer;🌐+Full-Stack+Web+Developer;🚀+Turning+Data+into+Intelligence" />
 </p>
 
 ---
